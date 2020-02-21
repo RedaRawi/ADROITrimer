@@ -28,7 +28,7 @@ ADROITrimer can be run in the command line
   3.  Path to installed MUCLE software (e.g. "/usr/local/bin/muscle")
   
 ### Execute in the command line
-R --no-save < ADROITrmer1.0-1.R target.fasta A /usr/bin/muscle
+R --no-save < ADROITrimer1.0-1.R target.fasta A /usr/bin/muscle
 
 
 ## Result
@@ -41,7 +41,7 @@ Multiple analysis and output files will be provided. The critical DS-SOSIP-RnS s
 ### Example/Test
 
 #### Clade A Strain BG505 testing sequence (please find BG505.W6M.C2.fasta example sequence in test sub-directory) 
-R --no-save < ADROITrmer1.0-1.R BG505.W6M.C2.fasta A /usr/bin/muscle
+R --no-save < ADROITrimer1.0-1.R BG505.W6M.C2.fasta A /usr/bin/muscle
 
 
 # Contact
