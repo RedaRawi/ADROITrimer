@@ -40,7 +40,7 @@ Multiple analysis and output files will be provided. The critical DS-SOSIP-RnS s
   
 ### Example/Test
 
-#### Clade A Strain BG505 testing sequence (please find BG505.W6M.C2.fasta example sequence in test sub-directory) 
+#### Clade A Strain BG505 testing sequence (please find BG505.W6M.C2.fasta example sequence in example sub-directory) 
 R --no-save < ADROITrimer1.0-1.R BG505.W6M.C2.fasta A /usr/bin/muscle
 
 
