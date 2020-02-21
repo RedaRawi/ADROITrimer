@@ -33,7 +33,7 @@ R --no-save < ADROITrimer1.0-1.R target.fasta A /usr/bin/muscle
 
 ## Result
 Multiple analysis and output files will be provided. The critical DS-SOSIP-RnS stabilized sequences are provided in FASTA format. In particular,
-1. With N- and C-terminal tags (N-terminal leader sequence, C-terminal - D7324-tag): output_xxx_DS-SOSIP-RnS_NtCt-tags.fasta (with xxx being a numeric value - time stamp)
+1. With N- and C-terminal tags (N-terminal - Prolactin leader sequence, C-terminal - D7324-tag): output_xxx_DS-SOSIP-RnS_NtCt-tags.fasta (with xxx being a numeric value - time stamp)
 2. Without N- and C-terminal tags: output_xxx_DS-SOSIP-RnS (with xxx being a numeric value - time stamp)
   You would have to add signal peptide and any desired C-terminal tag.
   
