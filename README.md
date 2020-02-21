@@ -17,7 +17,7 @@ ADROITrimer has been successfully tested on Mac and Linux systems
 ADROITrimer can be run in the command line
 
 ### Dependencies
-3 files are required to be placed in work directory (please download them from this repository in the required_files directory)
+3 files are required to be placed in current work directory (please download them from this repository from the required_files sub-directory)
   1. HIV1_FLT_2016_env_PRO_cleanLastCol_final.fasta
   2. 5fyl_trimer.pdb
   3. 5fyl_trimer.rsa
