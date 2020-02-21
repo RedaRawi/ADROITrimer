@@ -9,8 +9,13 @@ ADROITrimer has been successfully tested on Mac and Linux systems
 ### Dependencies
 
 - MUSCLE alignment software (https://www.drive5.com/muscle/). Please download and install.
-- The R Project for Statistical Computing (https://www.r-project.org/). Please download and install.
-  - R library bio3d: Install by opening R in command line and typing: install.packages("bio3d")
+- The R Project for Statistical Computing (https://www.r-project.org/). 
+  Please download and install
+    - Mac: Go to https://cran.r-project.org/bin/macosx/ , download and install latest version.
+    - Linux: For instance in Ubuntu type into command line: sudo apt-get install r-base
+- R library bio3d: In command line type
+  - R
+  - In R console type: install.packages("bio3d")
 
 
 ## Run 
