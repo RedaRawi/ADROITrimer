@@ -16,6 +16,7 @@ ADROITrimer has been successfully tested on Mac and Linux systems
 - R library bio3d: In command line type
   - R
   - In R console type: install.packages("bio3d")
+  - Exit R console with CRTL-R
 
 
 ## Run 
