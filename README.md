@@ -34,7 +34,7 @@ ADROITrimer can be run in the command line
   3.  Path to installed MUCLE software (e.g. "/usr/local/bin/muscle")
   
 ### Execute in the command line
-R --no-save < ADROITrimer1.0-1.R target.fasta A /usr/bin/muscle
+R --no-save < ADROITrimer1.0-3.R target.fasta A /usr/bin/muscle
 
 
 ## Result
